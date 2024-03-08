@@ -4,7 +4,7 @@ Hi 👋 My name is Kowit Narongtuwapan
 ### Web Developer and Game Developer (Unity & Unreal)
 
 * 🌍  I'm based in Chiang Mai, Thailand
-* ✉️  You can contact me at [kowit\_narongtuwapan@cmu.ac.th](mailto:kowit_narongtuwapan@cmu.ac.th)
+* ✉️  You can contact me at [kowit.narongtuwapan@hotmail.com](mailto:kowit.narongtuwapan@hotmail.com)
 
 ### Skills
 
